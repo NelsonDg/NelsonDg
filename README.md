@@ -19,7 +19,7 @@ Classifies messages into 20+ emotional states and feeds that context to an LLM, 
 
 ---
 
-#### 🧰 Tech I use
+#### 💻 Tech I use
 
 **Languages:** TypeScript · JavaScript · Python · Java · SQL · C++
 **Frameworks:** React · Next.js · Node.js · Flask · Tailwind CSS
