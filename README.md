@@ -2,7 +2,7 @@
 
 Computer Science student at **Simon Fraser University** in Vancouver, BC. I build full-stack tools that solve real operational problems, like replacing a small business's spreadsheet bookkeeping with a live inventory and finance platform.
 
-📫 Looking for **Summer 2027 co-op / internship** roles · [nelsondang.dev](https://nelsondang.dev) · [LinkedIn](https://linkedin.com/in/nelson-dang) · nelsondang14@gmail.com
+📫 Looking for **Summer 2027 co-op / internship** roles · [nelsondang.vercel.app](https://nelsondang.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nelson-dang-6409b5386/) · nelsondang14@gmail.com
 
 ---
 
